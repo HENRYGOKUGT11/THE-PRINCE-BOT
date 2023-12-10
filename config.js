@@ -5,8 +5,8 @@ import fs from 'fs'
 
 //Owner Numbers 
 global.owner = [
-  ['923042205427', 'Prince', true],
-  [''], 
+  ['256707521863', 'MORICE UG', true],
+  ['256761565724', 'MORICEDESIGNZ', true], 
   [''],
 ]
 
@@ -37,10 +37,10 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = 'PЯINCΣ-BOT-MÐ'
-global.princebot = '🛡️ᑭᖇIᑎᑕᕮ ᗷOT ᗰᗪ🛡️'
-global.packname = 'Prince┃ᴮᴼᵀ' 
-global.author = '@Prince' 
+global.botname = 'MORICE UG BOT'
+global.princebot = 'MORICE UG'
+global.packname = 'MORICEUG' 
+global.author = '@Morice' 
 global.princeig = '▢ Sígueme en Instagram\nhttps://www.instagram.com/fg98_ff\n' 
 global.princegp = 'https://chat.whatsapp.com/GWJkAJSgbv27sGOMLAzMDS'
 global.menuvid = 'https://i.imgur.com/QzqvOW0.mp4'
@@ -58,7 +58,7 @@ global.error = '❌'
 global.xmoji = '🌀' 
 
 global.multiplier = 69 
-global.maxwarn = '2' // máxima advertencias
+global.maxwarn = '3' // máxima advertencias
 
 let file = fileURLToPath(import.meta.url)
 watchFile(file, () => {
