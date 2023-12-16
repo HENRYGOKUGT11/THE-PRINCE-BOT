@@ -1,19 +1,19 @@
-import { watchFile, unwatchFile } from 'fs'
+yoimport { watchFile, unwatchFile } from 'fs'
 import chalk from 'chalk'
 import { fileURLToPath } from 'url'
 import fs from 'fs'
 
 //Owner Numbers 
 global.owner = [
-  ['92304xxxx427', 'Prince', false],
-  [''], 
-  [''],
+  ['0742794527', 'aero', true],
+  ['0742794527'], 
+  ['0742794527'],
 ]
 
-//global.pairingNumber = "" //put your bot number here
-global.mods = ['923042205427'] 
-global.prems = ['923042205427', '923042205427', '923042205427']
-global.allowed = ['923042205427']
+//global.pairingNumber = "" //0742794527
+global.mods = ['0742794527'] 
+global.prems = ['0742794527', '0742794527', '0742794527']
+global.allowed = ['0742794527']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
 global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
 global.keysxteammm = ['29d4b59a4aa687ca', '5LTV57azwaid7dXfz5fzJu', 'cb15ed422c71a2fb', '5bd33b276d41d6b4', 'HIRO', 'kurrxd09', 'ebb6251cc00f9c63']
